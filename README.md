@@ -1,4 +1,4 @@
-# Hi, I'm Abigail
+# Hi, I'm Abigail!
 
 I've always dreamt of a career in tech, and now, thanks to [nology](https://nology.io/), I've learned the skills to begin my journey.
 
